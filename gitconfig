@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gaby.m.huidobro@gmail.com
+	name = Gabriela Manzano
